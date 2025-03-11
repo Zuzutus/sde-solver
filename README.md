@@ -228,6 +228,12 @@ results = multi_simulation_grid(
     Nsaved=1000
 )
 ```
+### Grid Simulation Visualization
+
+Below is a demonstration of the particle motion simulation:
+
+![Particle Motion Simulation](./particle_motion_sim0.mp4)
+
 
 ### 2. Black-Scholes Model
 
